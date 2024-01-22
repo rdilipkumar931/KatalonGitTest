@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Account  Lists</name>
+   <tag></tag>
+   <elementGuidId>3d899319-db4b-4af6-9941-56e1664810ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-link-accountList']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>aad852f4-abbc-4e52-8d2a-bffb3c4daa81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-line-2 </value>
+      <webElementGuid>b2c7ecd1-9b1b-47fc-aeec-5dbc155403e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Account &amp; Lists
+  </value>
+      <webElementGuid>026c2a7b-b176-4c0d-bb3e-6e583ea06276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-link-accountList&quot;)/span[@class=&quot;nav-line-2&quot;]</value>
+      <webElementGuid>8c08fe70-1fd2-46f7-9960-ebfac12bea5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='nav-link-accountList']/span</value>
+      <webElementGuid>988ccebe-3f3e-40c1-9c79-5e520d864864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>23fbf039-0ad1-487a-9567-aa1b176049c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Account &amp; Lists
+  ' or . = 'Account &amp; Lists
+  ')]</value>
+      <webElementGuid>624f0f23-6358-4ef9-ba87-d7097cfcfe82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
